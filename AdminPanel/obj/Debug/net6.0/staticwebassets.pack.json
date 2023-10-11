@@ -1,0 +1,389 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AdminPanel.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AdminPanel.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\images\\products\\0734a52c-19c0-4526-ba37-e4c24c9ef8bflatte.png",
+      "PackagePath": "staticwebassets\\images\\products\\0734a52c-19c0-4526-ba37-e4c24c9ef8bflatte.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\images\\products\\3870a8b4-c8d0-4ead-b2f5-d50e7f83747dlatte.png",
+      "PackagePath": "staticwebassets\\images\\products\\3870a8b4-c8d0-4ead-b2f5-d50e7f83747dlatte.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\images\\products\\3c71ea21-6ea3-40a2-81fe-5247b1046405latte.png",
+      "PackagePath": "staticwebassets\\images\\products\\3c71ea21-6ea3-40a2-81fe-5247b1046405latte.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\images\\products\\6e70041f-c40d-4c2d-add8-1076caa747c7latte.png",
+      "PackagePath": "staticwebassets\\images\\products\\6e70041f-c40d-4c2d-add8-1076caa747c7latte.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\images\\products\\996e9043-830e-453b-9bd2-4f15c7cd6a46latte.png",
+      "PackagePath": "staticwebassets\\images\\products\\996e9043-830e-453b-9bd2-4f15c7cd6a46latte.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\images\\products\\b0369f02-89eb-4fc5-821a-d61a058c9310latte.png",
+      "PackagePath": "staticwebassets\\images\\products\\b0369f02-89eb-4fc5-821a-d61a058c9310latte.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\images\\products\\boot-ang1.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-ang1.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\images\\products\\boot-ang2.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-ang2.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\images\\products\\boot-core1.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-core1.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\images\\products\\boot-core2.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-core2.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\images\\products\\boot-redis1.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-redis1.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\images\\products\\eeda5948-bc10-489b-8764-51df767b52fdpexels-eprism-studio-335257.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\eeda5948-bc10-489b-8764-51df767b52fdpexels-eprism-studio-335257.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\images\\products\\glove-code1.png",
+      "PackagePath": "staticwebassets\\images\\products\\glove-code1.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\images\\products\\glove-code2.png",
+      "PackagePath": "staticwebassets\\images\\products\\glove-code2.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\images\\products\\glove-react1.png",
+      "PackagePath": "staticwebassets\\images\\products\\glove-react1.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\images\\products\\glove-react2.png",
+      "PackagePath": "staticwebassets\\images\\products\\glove-react2.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\images\\products\\hat-core1.png",
+      "PackagePath": "staticwebassets\\images\\products\\hat-core1.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\images\\products\\hat-react1.png",
+      "PackagePath": "staticwebassets\\images\\products\\hat-react1.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\images\\products\\hat-react2.png",
+      "PackagePath": "staticwebassets\\images\\products\\hat-react2.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\images\\products\\sb-ang1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-ang1.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\images\\products\\sb-ang2.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-ang2.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\images\\products\\sb-core1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-core1.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\images\\products\\sb-core2.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-core2.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\images\\products\\sb-react1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-react1.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\images\\products\\sb-ts1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-ts1.png"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\Desktop\\Talabat-Ecommerce-Api\\AdminPanel\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.AdminPanel.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.AdminPanel.props",
+      "PackagePath": "build\\AdminPanel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.AdminPanel.props",
+      "PackagePath": "buildMultiTargeting\\AdminPanel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.AdminPanel.props",
+      "PackagePath": "buildTransitive\\AdminPanel.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

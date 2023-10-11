@@ -1,0 +1,18 @@
+﻿@model ProductViewModel
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Edit</h1>
+<div calss="container">
+    <form method="post" asp-action="Edit" enctype="multipart/form-data">
+        <input hidden asp-for="Id" />
+        <partial name="CreateEditPartialView" model="Model" />
+        <br />
+        <br />
+        <input class="btn btn-success " type="submit" value="Add"></input>
+        <a asp-action="Index" class="btn btn-success">Back</a>
+    </form>
+</div>
+

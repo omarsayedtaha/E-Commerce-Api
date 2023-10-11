@@ -1,0 +1,21 @@
+﻿@model ProductViewModel
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Create</h1>
+<div calss="container">
+    <form method="post" asp-action="Create" enctype="multipart/form-data">
+        <input hidden asp-for="PictureUrl"/>
+        <partial name="CreateEditPartialView" model="Model" />
+        <br/>
+        <br/>
+        <input class="btn btn-success " type="submit" value="Add">
+        <a asp-action="Index" class="btn btn-success" >Back</a>
+    </form>
+</div>
+@section Scripts
+{
+    <partial name = "_ValidationScriptsPartial"/>
+}

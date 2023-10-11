@@ -1,0 +1,90 @@
+D:\GIT Repos\Ecommerce-Api-\ServiceLayer\bin\Debug\net6.0\ServiceLayer.deps.json
+D:\GIT Repos\Ecommerce-Api-\ServiceLayer\bin\Debug\net6.0\ServiceLayer.dll
+D:\GIT Repos\Ecommerce-Api-\ServiceLayer\bin\Debug\net6.0\ServiceLayer.pdb
+D:\GIT Repos\Ecommerce-Api-\ServiceLayer\bin\Debug\net6.0\CoreLayer.dll
+D:\GIT Repos\Ecommerce-Api-\ServiceLayer\bin\Debug\net6.0\CoreLayer.pdb
+D:\GIT Repos\Ecommerce-Api-\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.AssemblyReference.cache
+D:\GIT Repos\Ecommerce-Api-\ServiceLayer\obj\Debug\net6.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT Repos\Ecommerce-Api-\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfoInputs.cache
+D:\GIT Repos\Ecommerce-Api-\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfo.cs
+D:\GIT Repos\Ecommerce-Api-\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\GIT Repos\Ecommerce-Api-\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CopyComplete
+D:\GIT Repos\Ecommerce-Api-\ServiceLayer\obj\Debug\net6.0\ServiceLayer.dll
+D:\GIT Repos\Ecommerce-Api-\ServiceLayer\obj\Debug\net6.0\refint\ServiceLayer.dll
+D:\GIT Repos\Ecommerce-Api-\ServiceLayer\obj\Debug\net6.0\ServiceLayer.pdb
+D:\GIT Repos\Ecommerce-Api-\ServiceLayer\obj\Debug\net6.0\ref\ServiceLayer.dll
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat2\ServiceLayer\bin\Debug\net6.0\ServiceLayer.deps.json
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat2\ServiceLayer\bin\Debug\net6.0\ServiceLayer.dll
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat2\ServiceLayer\bin\Debug\net6.0\ServiceLayer.pdb
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat2\ServiceLayer\bin\Debug\net6.0\CoreLayer.dll
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat2\ServiceLayer\bin\Debug\net6.0\CoreLayer.pdb
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat2\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.AssemblyReference.cache
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat2\ServiceLayer\obj\Debug\net6.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat2\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfoInputs.cache
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat2\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfo.cs
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat2\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat2\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CopyComplete
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat2\ServiceLayer\obj\Debug\net6.0\ServiceLayer.dll
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat2\ServiceLayer\obj\Debug\net6.0\refint\ServiceLayer.dll
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat2\ServiceLayer\obj\Debug\net6.0\ServiceLayer.pdb
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat2\ServiceLayer\obj\Debug\net6.0\ref\ServiceLayer.dll
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat_Ecommerce\ServiceLayer\bin\Debug\net6.0\ServiceLayer.deps.json
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat_Ecommerce\ServiceLayer\bin\Debug\net6.0\ServiceLayer.dll
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat_Ecommerce\ServiceLayer\bin\Debug\net6.0\ServiceLayer.pdb
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat_Ecommerce\ServiceLayer\bin\Debug\net6.0\CoreLayer.dll
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat_Ecommerce\ServiceLayer\bin\Debug\net6.0\CoreLayer.pdb
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat_Ecommerce\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.AssemblyReference.cache
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat_Ecommerce\ServiceLayer\obj\Debug\net6.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat_Ecommerce\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfoInputs.cache
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat_Ecommerce\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfo.cs
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat_Ecommerce\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat_Ecommerce\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CopyComplete
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat_Ecommerce\ServiceLayer\obj\Debug\net6.0\ServiceLayer.dll
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat_Ecommerce\ServiceLayer\obj\Debug\net6.0\refint\ServiceLayer.dll
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat_Ecommerce\ServiceLayer\obj\Debug\net6.0\ServiceLayer.pdb
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat_Ecommerce\ServiceLayer\obj\Debug\net6.0\ref\ServiceLayer.dll
+C:\Users\Omar\Desktop\Talabat-Ecommerce-Api\ServiceLayer\bin\Debug\net6.0\ServiceLayer.deps.json
+C:\Users\Omar\Desktop\Talabat-Ecommerce-Api\ServiceLayer\bin\Debug\net6.0\ServiceLayer.dll
+C:\Users\Omar\Desktop\Talabat-Ecommerce-Api\ServiceLayer\bin\Debug\net6.0\ServiceLayer.pdb
+C:\Users\Omar\Desktop\Talabat-Ecommerce-Api\ServiceLayer\bin\Debug\net6.0\CoreLayer.dll
+C:\Users\Omar\Desktop\Talabat-Ecommerce-Api\ServiceLayer\bin\Debug\net6.0\CoreLayer.pdb
+C:\Users\Omar\Desktop\Talabat-Ecommerce-Api\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\Omar\Desktop\Talabat-Ecommerce-Api\ServiceLayer\obj\Debug\net6.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\Desktop\Talabat-Ecommerce-Api\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\Omar\Desktop\Talabat-Ecommerce-Api\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfo.cs
+C:\Users\Omar\Desktop\Talabat-Ecommerce-Api\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\Talabat-Ecommerce-Api\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CopyComplete
+C:\Users\Omar\Desktop\Talabat-Ecommerce-Api\ServiceLayer\obj\Debug\net6.0\ServiceLayer.dll
+C:\Users\Omar\Desktop\Talabat-Ecommerce-Api\ServiceLayer\obj\Debug\net6.0\refint\ServiceLayer.dll
+C:\Users\Omar\Desktop\Talabat-Ecommerce-Api\ServiceLayer\obj\Debug\net6.0\ServiceLayer.pdb
+C:\Users\Omar\Desktop\Talabat-Ecommerce-Api\ServiceLayer\obj\Debug\net6.0\ref\ServiceLayer.dll
+C:\Users\Omar\Desktop\E-Commmerce-Api\ServiceLayer\bin\Debug\net6.0\ServiceLayer.deps.json
+C:\Users\Omar\Desktop\E-Commmerce-Api\ServiceLayer\bin\Debug\net6.0\ServiceLayer.dll
+C:\Users\Omar\Desktop\E-Commmerce-Api\ServiceLayer\bin\Debug\net6.0\ServiceLayer.pdb
+C:\Users\Omar\Desktop\E-Commmerce-Api\ServiceLayer\bin\Debug\net6.0\CoreLayer.dll
+C:\Users\Omar\Desktop\E-Commmerce-Api\ServiceLayer\bin\Debug\net6.0\CoreLayer.pdb
+C:\Users\Omar\Desktop\E-Commmerce-Api\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\Omar\Desktop\E-Commmerce-Api\ServiceLayer\obj\Debug\net6.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\Desktop\E-Commmerce-Api\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\Omar\Desktop\E-Commmerce-Api\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfo.cs
+C:\Users\Omar\Desktop\E-Commmerce-Api\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\E-Commmerce-Api\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CopyComplete
+C:\Users\Omar\Desktop\E-Commmerce-Api\ServiceLayer\obj\Debug\net6.0\ServiceLayer.dll
+C:\Users\Omar\Desktop\E-Commmerce-Api\ServiceLayer\obj\Debug\net6.0\refint\ServiceLayer.dll
+C:\Users\Omar\Desktop\E-Commmerce-Api\ServiceLayer\obj\Debug\net6.0\ServiceLayer.pdb
+C:\Users\Omar\Desktop\E-Commmerce-Api\ServiceLayer\obj\Debug\net6.0\ref\ServiceLayer.dll
+C:\Users\Omar\Desktop\E-Commmerce-Api-main\ServiceLayer\bin\Debug\net6.0\ServiceLayer.deps.json
+C:\Users\Omar\Desktop\E-Commmerce-Api-main\ServiceLayer\bin\Debug\net6.0\ServiceLayer.dll
+C:\Users\Omar\Desktop\E-Commmerce-Api-main\ServiceLayer\bin\Debug\net6.0\ServiceLayer.pdb
+C:\Users\Omar\Desktop\E-Commmerce-Api-main\ServiceLayer\bin\Debug\net6.0\CoreLayer.dll
+C:\Users\Omar\Desktop\E-Commmerce-Api-main\ServiceLayer\bin\Debug\net6.0\CoreLayer.pdb
+C:\Users\Omar\Desktop\E-Commmerce-Api-main\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\Omar\Desktop\E-Commmerce-Api-main\ServiceLayer\obj\Debug\net6.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\Desktop\E-Commmerce-Api-main\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\Omar\Desktop\E-Commmerce-Api-main\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfo.cs
+C:\Users\Omar\Desktop\E-Commmerce-Api-main\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\E-Commmerce-Api-main\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CopyComplete
+C:\Users\Omar\Desktop\E-Commmerce-Api-main\ServiceLayer\obj\Debug\net6.0\ServiceLayer.dll
+C:\Users\Omar\Desktop\E-Commmerce-Api-main\ServiceLayer\obj\Debug\net6.0\refint\ServiceLayer.dll
+C:\Users\Omar\Desktop\E-Commmerce-Api-main\ServiceLayer\obj\Debug\net6.0\ServiceLayer.pdb
+C:\Users\Omar\Desktop\E-Commmerce-Api-main\ServiceLayer\obj\Debug\net6.0\ref\ServiceLayer.dll

@@ -1,0 +1,90 @@
+D:\GIT Repos\Ecommerce-Api-\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+D:\GIT Repos\Ecommerce-Api-\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+D:\GIT Repos\Ecommerce-Api-\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+D:\GIT Repos\Ecommerce-Api-\RepositoryLayer\bin\Debug\net6.0\CoreLayer.dll
+D:\GIT Repos\Ecommerce-Api-\RepositoryLayer\bin\Debug\net6.0\CoreLayer.pdb
+D:\GIT Repos\Ecommerce-Api-\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+D:\GIT Repos\Ecommerce-Api-\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT Repos\Ecommerce-Api-\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+D:\GIT Repos\Ecommerce-Api-\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+D:\GIT Repos\Ecommerce-Api-\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\GIT Repos\Ecommerce-Api-\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CopyComplete
+D:\GIT Repos\Ecommerce-Api-\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+D:\GIT Repos\Ecommerce-Api-\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
+D:\GIT Repos\Ecommerce-Api-\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+D:\GIT Repos\Ecommerce-Api-\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat2\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat2\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat2\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat2\RepositoryLayer\bin\Debug\net6.0\CoreLayer.dll
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat2\RepositoryLayer\bin\Debug\net6.0\CoreLayer.pdb
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat2\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat2\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat2\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat2\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat2\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat2\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CopyComplete
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat2\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat2\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat2\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat2\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat_Ecommerce\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat_Ecommerce\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat_Ecommerce\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat_Ecommerce\RepositoryLayer\bin\Debug\net6.0\CoreLayer.dll
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat_Ecommerce\RepositoryLayer\bin\Debug\net6.0\CoreLayer.pdb
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat_Ecommerce\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat_Ecommerce\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat_Ecommerce\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat_Ecommerce\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat_Ecommerce\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat_Ecommerce\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CopyComplete
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat_Ecommerce\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat_Ecommerce\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat_Ecommerce\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+D:\Dotnet Course Route\Sessions\03 OOP\Session 01\Assignment\Talabat_Ecommerce\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll
+C:\Users\Omar\Desktop\Talabat-Ecommerce-Api\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+C:\Users\Omar\Desktop\Talabat-Ecommerce-Api\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+C:\Users\Omar\Desktop\Talabat-Ecommerce-Api\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\Omar\Desktop\Talabat-Ecommerce-Api\RepositoryLayer\bin\Debug\net6.0\CoreLayer.dll
+C:\Users\Omar\Desktop\Talabat-Ecommerce-Api\RepositoryLayer\bin\Debug\net6.0\CoreLayer.pdb
+C:\Users\Omar\Desktop\Talabat-Ecommerce-Api\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+C:\Users\Omar\Desktop\Talabat-Ecommerce-Api\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\Desktop\Talabat-Ecommerce-Api\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\Omar\Desktop\Talabat-Ecommerce-Api\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+C:\Users\Omar\Desktop\Talabat-Ecommerce-Api\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\Talabat-Ecommerce-Api\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CopyComplete
+C:\Users\Omar\Desktop\Talabat-Ecommerce-Api\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+C:\Users\Omar\Desktop\Talabat-Ecommerce-Api\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
+C:\Users\Omar\Desktop\Talabat-Ecommerce-Api\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\Omar\Desktop\Talabat-Ecommerce-Api\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll
+C:\Users\Omar\Desktop\E-Commmerce-Api\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+C:\Users\Omar\Desktop\E-Commmerce-Api\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+C:\Users\Omar\Desktop\E-Commmerce-Api\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\Omar\Desktop\E-Commmerce-Api\RepositoryLayer\bin\Debug\net6.0\CoreLayer.dll
+C:\Users\Omar\Desktop\E-Commmerce-Api\RepositoryLayer\bin\Debug\net6.0\CoreLayer.pdb
+C:\Users\Omar\Desktop\E-Commmerce-Api\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+C:\Users\Omar\Desktop\E-Commmerce-Api\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\Desktop\E-Commmerce-Api\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\Omar\Desktop\E-Commmerce-Api\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+C:\Users\Omar\Desktop\E-Commmerce-Api\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\E-Commmerce-Api\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CopyComplete
+C:\Users\Omar\Desktop\E-Commmerce-Api\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+C:\Users\Omar\Desktop\E-Commmerce-Api\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
+C:\Users\Omar\Desktop\E-Commmerce-Api\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\Omar\Desktop\E-Commmerce-Api\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll
+C:\Users\Omar\Desktop\E-Commmerce-Api-main\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+C:\Users\Omar\Desktop\E-Commmerce-Api-main\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+C:\Users\Omar\Desktop\E-Commmerce-Api-main\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\Omar\Desktop\E-Commmerce-Api-main\RepositoryLayer\bin\Debug\net6.0\CoreLayer.dll
+C:\Users\Omar\Desktop\E-Commmerce-Api-main\RepositoryLayer\bin\Debug\net6.0\CoreLayer.pdb
+C:\Users\Omar\Desktop\E-Commmerce-Api-main\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+C:\Users\Omar\Desktop\E-Commmerce-Api-main\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\Desktop\E-Commmerce-Api-main\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\Omar\Desktop\E-Commmerce-Api-main\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+C:\Users\Omar\Desktop\E-Commmerce-Api-main\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\E-Commmerce-Api-main\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CopyComplete
+C:\Users\Omar\Desktop\E-Commmerce-Api-main\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+C:\Users\Omar\Desktop\E-Commmerce-Api-main\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
+C:\Users\Omar\Desktop\E-Commmerce-Api-main\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\Omar\Desktop\E-Commmerce-Api-main\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll
