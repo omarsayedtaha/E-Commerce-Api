@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O2saKh+30P5m4wpQiWv/S24opWWIpUaUdkb0YN40/IsIL+gj8K4fTLJHwVQN8XPkNaqhJmRDfaIXowBuf5OWug==",
+  "dgSpecHash": "10yh+qh1H+RTojyBxOhA24RRxrPYFjlse/Q2MPYYZvPSjDOyvwLnYrTf5ZiteqYsC7qAKQR7C0r8prGYJhvTRg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Omar\\Desktop\\E-Commmerce-Api-main\\CoreLayer\\CoreLayer.csproj",
+  "projectFilePath": "D:\\Dotnet Course Route\\Projects\\E-Commerce-API\\CoreLayer\\CoreLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Omar\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.20\\microsoft.aspnetcore.cryptography.internal.6.0.20.nupkg.sha512",
     "C:\\Users\\Omar\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.20\\microsoft.aspnetcore.cryptography.keyderivation.6.0.20.nupkg.sha512",
@@ -38,12 +38,5 @@
     "C:\\Users\\Omar\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
     "C:\\Users\\Omar\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\Omar\\Desktop\\E-Commmerce-Api-main\\CoreLayer\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

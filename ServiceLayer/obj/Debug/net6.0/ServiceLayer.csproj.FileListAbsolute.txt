@@ -88,3 +88,18 @@ C:\Users\Omar\Desktop\E-Commmerce-Api-main\ServiceLayer\obj\Debug\net6.0\Service
 C:\Users\Omar\Desktop\E-Commmerce-Api-main\ServiceLayer\obj\Debug\net6.0\refint\ServiceLayer.dll
 C:\Users\Omar\Desktop\E-Commmerce-Api-main\ServiceLayer\obj\Debug\net6.0\ServiceLayer.pdb
 C:\Users\Omar\Desktop\E-Commmerce-Api-main\ServiceLayer\obj\Debug\net6.0\ref\ServiceLayer.dll
+D:\Dotnet Course Route\Projects\E-Commerce-API\ServiceLayer\bin\Debug\net6.0\ServiceLayer.deps.json
+D:\Dotnet Course Route\Projects\E-Commerce-API\ServiceLayer\bin\Debug\net6.0\ServiceLayer.dll
+D:\Dotnet Course Route\Projects\E-Commerce-API\ServiceLayer\bin\Debug\net6.0\ServiceLayer.pdb
+D:\Dotnet Course Route\Projects\E-Commerce-API\ServiceLayer\bin\Debug\net6.0\CoreLayer.dll
+D:\Dotnet Course Route\Projects\E-Commerce-API\ServiceLayer\bin\Debug\net6.0\CoreLayer.pdb
+D:\Dotnet Course Route\Projects\E-Commerce-API\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.AssemblyReference.cache
+D:\Dotnet Course Route\Projects\E-Commerce-API\ServiceLayer\obj\Debug\net6.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Course Route\Projects\E-Commerce-API\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfoInputs.cache
+D:\Dotnet Course Route\Projects\E-Commerce-API\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfo.cs
+D:\Dotnet Course Route\Projects\E-Commerce-API\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\Dotnet Course Route\Projects\E-Commerce-API\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CopyComplete
+D:\Dotnet Course Route\Projects\E-Commerce-API\ServiceLayer\obj\Debug\net6.0\ServiceLayer.dll
+D:\Dotnet Course Route\Projects\E-Commerce-API\ServiceLayer\obj\Debug\net6.0\refint\ServiceLayer.dll
+D:\Dotnet Course Route\Projects\E-Commerce-API\ServiceLayer\obj\Debug\net6.0\ServiceLayer.pdb
+D:\Dotnet Course Route\Projects\E-Commerce-API\ServiceLayer\obj\Debug\net6.0\ref\ServiceLayer.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Omar\\Desktop\\E-Commmerce-Api-main\\ServiceLayer\\ServiceLayer.csproj": {}
+    "D:\\Dotnet Course Route\\Projects\\E-Commerce-API\\ServiceLayer\\ServiceLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Omar\\Desktop\\E-Commmerce-Api-main\\CoreLayer\\CoreLayer.csproj": {
+    "D:\\Dotnet Course Route\\Projects\\E-Commerce-API\\CoreLayer\\CoreLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Omar\\Desktop\\E-Commmerce-Api-main\\CoreLayer\\CoreLayer.csproj",
+        "projectUniqueName": "D:\\Dotnet Course Route\\Projects\\E-Commerce-API\\CoreLayer\\CoreLayer.csproj",
         "projectName": "CoreLayer",
-        "projectPath": "C:\\Users\\Omar\\Desktop\\E-Commmerce-Api-main\\CoreLayer\\CoreLayer.csproj",
+        "projectPath": "D:\\Dotnet Course Route\\Projects\\E-Commerce-API\\CoreLayer\\CoreLayer.csproj",
         "packagesPath": "C:\\Users\\Omar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Omar\\Desktop\\E-Commmerce-Api-main\\CoreLayer\\obj\\",
+        "outputPath": "D:\\Dotnet Course Route\\Projects\\E-Commerce-API\\CoreLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Omar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\Omar\\Desktop\\E-Commmerce-Api-main\\ServiceLayer\\ServiceLayer.csproj": {
+    "D:\\Dotnet Course Route\\Projects\\E-Commerce-API\\ServiceLayer\\ServiceLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Omar\\Desktop\\E-Commmerce-Api-main\\ServiceLayer\\ServiceLayer.csproj",
+        "projectUniqueName": "D:\\Dotnet Course Route\\Projects\\E-Commerce-API\\ServiceLayer\\ServiceLayer.csproj",
         "projectName": "ServiceLayer",
-        "projectPath": "C:\\Users\\Omar\\Desktop\\E-Commmerce-Api-main\\ServiceLayer\\ServiceLayer.csproj",
+        "projectPath": "D:\\Dotnet Course Route\\Projects\\E-Commerce-API\\ServiceLayer\\ServiceLayer.csproj",
         "packagesPath": "C:\\Users\\Omar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Omar\\Desktop\\E-Commmerce-Api-main\\ServiceLayer\\obj\\",
+        "outputPath": "D:\\Dotnet Course Route\\Projects\\E-Commerce-API\\ServiceLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Omar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -97,8 +97,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Omar\\Desktop\\E-Commmerce-Api-main\\CoreLayer\\CoreLayer.csproj": {
-                "projectPath": "C:\\Users\\Omar\\Desktop\\E-Commmerce-Api-main\\CoreLayer\\CoreLayer.csproj"
+              "D:\\Dotnet Course Route\\Projects\\E-Commerce-API\\CoreLayer\\CoreLayer.csproj": {
+                "projectPath": "D:\\Dotnet Course Route\\Projects\\E-Commerce-API\\CoreLayer\\CoreLayer.csproj"
               }
             }
           }

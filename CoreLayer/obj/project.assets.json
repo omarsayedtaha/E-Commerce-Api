@@ -1391,11 +1391,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Omar\\Desktop\\E-Commmerce-Api-main\\CoreLayer\\CoreLayer.csproj",
+      "projectUniqueName": "D:\\Dotnet Course Route\\Projects\\E-Commerce-API\\CoreLayer\\CoreLayer.csproj",
       "projectName": "CoreLayer",
-      "projectPath": "C:\\Users\\Omar\\Desktop\\E-Commmerce-Api-main\\CoreLayer\\CoreLayer.csproj",
+      "projectPath": "D:\\Dotnet Course Route\\Projects\\E-Commerce-API\\CoreLayer\\CoreLayer.csproj",
       "packagesPath": "C:\\Users\\Omar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Omar\\Desktop\\E-Commmerce-Api-main\\CoreLayer\\obj\\",
+      "outputPath": "D:\\Dotnet Course Route\\Projects\\E-Commerce-API\\CoreLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Omar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1456,13 +1456,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\Omar\\Desktop\\E-Commmerce-Api-main\\CoreLayer\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QutwQ8JjB3rNVS7IDwZxM1SHKxVBi54ogpbxj7rjd+RcF6Xx0LC2aFaJOu0xYwG/y+Npr4cv8W9a0rNYYFaXRg==",
+  "dgSpecHash": "JI9Wk8EW1ngxAM74iXBk+vXfdrU4lrnixBJAD8Zv7f/cp5v/kt0idsSCYx974zDNzyh1CVbhDEr8Igrq/krBjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Omar\\Desktop\\E-Commmerce-Api-main\\AdminPanel\\AdminPanel.csproj",
+  "projectFilePath": "D:\\Dotnet Course Route\\Projects\\E-Commerce-API\\AdminPanel\\AdminPanel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Omar\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Omar\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
@@ -235,12 +235,5 @@
     "C:\\Users\\Omar\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Omar\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\Omar\\Desktop\\E-Commmerce-Api-main\\AdminPanel\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

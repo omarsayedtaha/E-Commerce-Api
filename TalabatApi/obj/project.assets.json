@@ -2758,11 +2758,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Omar\\Desktop\\E-Commmerce-Api-main\\TalabatApi\\TalabatApi.csproj",
+      "projectUniqueName": "D:\\Dotnet Course Route\\Projects\\E-Commerce-API\\TalabatApi\\TalabatApi.csproj",
       "projectName": "TalabatApi",
-      "projectPath": "C:\\Users\\Omar\\Desktop\\E-Commmerce-Api-main\\TalabatApi\\TalabatApi.csproj",
+      "projectPath": "D:\\Dotnet Course Route\\Projects\\E-Commerce-API\\TalabatApi\\TalabatApi.csproj",
       "packagesPath": "C:\\Users\\Omar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Omar\\Desktop\\E-Commmerce-Api-main\\TalabatApi\\obj\\",
+      "outputPath": "D:\\Dotnet Course Route\\Projects\\E-Commerce-API\\TalabatApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Omar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2779,11 +2779,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Omar\\Desktop\\E-Commmerce-Api-main\\RepositoryLayer\\RepositoryLayer.csproj": {
-              "projectPath": "C:\\Users\\Omar\\Desktop\\E-Commmerce-Api-main\\RepositoryLayer\\RepositoryLayer.csproj"
+            "D:\\Dotnet Course Route\\Projects\\E-Commerce-API\\RepositoryLayer\\RepositoryLayer.csproj": {
+              "projectPath": "D:\\Dotnet Course Route\\Projects\\E-Commerce-API\\RepositoryLayer\\RepositoryLayer.csproj"
             },
-            "C:\\Users\\Omar\\Desktop\\E-Commmerce-Api-main\\ServiceLayer\\ServiceLayer.csproj": {
-              "projectPath": "C:\\Users\\Omar\\Desktop\\E-Commmerce-Api-main\\ServiceLayer\\ServiceLayer.csproj"
+            "D:\\Dotnet Course Route\\Projects\\E-Commerce-API\\ServiceLayer\\ServiceLayer.csproj": {
+              "projectPath": "D:\\Dotnet Course Route\\Projects\\E-Commerce-API\\ServiceLayer\\ServiceLayer.csproj"
             }
           }
         }

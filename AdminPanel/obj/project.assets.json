@@ -11304,11 +11304,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Omar\\Desktop\\E-Commmerce-Api-main\\AdminPanel\\AdminPanel.csproj",
+      "projectUniqueName": "D:\\Dotnet Course Route\\Projects\\E-Commerce-API\\AdminPanel\\AdminPanel.csproj",
       "projectName": "AdminPanel",
-      "projectPath": "C:\\Users\\Omar\\Desktop\\E-Commmerce-Api-main\\AdminPanel\\AdminPanel.csproj",
+      "projectPath": "D:\\Dotnet Course Route\\Projects\\E-Commerce-API\\AdminPanel\\AdminPanel.csproj",
       "packagesPath": "C:\\Users\\Omar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Omar\\Desktop\\E-Commmerce-Api-main\\AdminPanel\\obj\\",
+      "outputPath": "D:\\Dotnet Course Route\\Projects\\E-Commerce-API\\AdminPanel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Omar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -11325,8 +11325,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Omar\\Desktop\\E-Commmerce-Api-main\\TalabatApi\\TalabatApi.csproj": {
-              "projectPath": "C:\\Users\\Omar\\Desktop\\E-Commmerce-Api-main\\TalabatApi\\TalabatApi.csproj"
+            "D:\\Dotnet Course Route\\Projects\\E-Commerce-API\\TalabatApi\\TalabatApi.csproj": {
+              "projectPath": "D:\\Dotnet Course Route\\Projects\\E-Commerce-API\\TalabatApi\\TalabatApi.csproj"
             }
           }
         }
@@ -11368,13 +11368,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\Omar\\Desktop\\E-Commmerce-Api-main\\AdminPanel\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

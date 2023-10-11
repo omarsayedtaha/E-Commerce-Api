@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sUwFWogFRK/dv3SxD0kGdUmO/flEcFb91YBfLp6opNqed+le9ISBMp+9+8XN/eCT29KOmp208trzyD/K5Hqxfw==",
+  "dgSpecHash": "xEsBQLJzs8hRQ/2HUmAgqkPEy+9/269x2XH3qcpFAyOzXFDB9Y0z8LXigp+LiZ+hHAy3HxKxjr4puxAnENWbJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Omar\\Desktop\\E-Commmerce-Api-main\\ServiceLayer\\ServiceLayer.csproj",
+  "projectFilePath": "D:\\Dotnet Course Route\\Projects\\E-Commerce-API\\ServiceLayer\\ServiceLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Omar\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.20\\microsoft.aspnetcore.authentication.jwtbearer.6.0.20.nupkg.sha512",
     "C:\\Users\\Omar\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.20\\microsoft.aspnetcore.cryptography.internal.6.0.20.nupkg.sha512",
@@ -47,12 +47,5 @@
     "C:\\Users\\Omar\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
     "C:\\Users\\Omar\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\Omar\\Desktop\\E-Commmerce-Api-main\\ServiceLayer\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
