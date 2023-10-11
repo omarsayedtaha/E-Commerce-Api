@@ -5,6 +5,7 @@ Repository Design Patterns, Microsoft Identity Package for Authentication, and C
 ## Features
 - Add, Update & Delete Products
 - Filtration by name , prince , brand and type
+- Pagination
 - User Managment (Authentication , Authorization)
 - Add , update and Remove items to and from Shping Cart 
 - Cashing 
